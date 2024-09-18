@@ -1,0 +1,34 @@
+p{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+
+#intro {
+    color: brown;
+    font-size: 20px;
+
+}
+
+#imagen {
+    width: 200px;
+    border-radius: 10px;
+    
+}
+
+.tipos{
+    color: mediumblue;
+    font-weight: bold;
+
+}
+
+a{
+    color: teal;
+    text-decoration: none;
+}
